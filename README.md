@@ -37,7 +37,7 @@ ZXCVBNM
 
 Watch the Eye Controlled Keyboard & Mouse in action:
 
-[![Eye Keyboard Demo](https://i.imgur.com/abcd123.png)](https://drive.google.com/file/d/1RZJjnm8A6VP5p8rg2Ee4vct_z8gGiEMX/view?usp=sharing)
+[![Eye Keyboard Demo](https://drive.google.com/file/d/1n0TE9eLbCky5ErIZBrARGGVy3Zf01vBv/view?usp=sharing)](https://drive.google.com/file/d/1RZJjnm8A6VP5p8rg2Ee4vct_z8gGiEMX/view?usp=sharing)
 
 *Click the image above to watch the demonstration video*
 
