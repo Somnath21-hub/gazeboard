@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Build / packaging
+*.spec
+build/
+dist/
+*.egg-info/
+
+# Output files
+typed_output.txt
